@@ -11,6 +11,7 @@ group :development, :test do
   gem 'thin', '~>1.5.1'
   gem 'rspec-rails', '~> 2.0'
   gem 'capybara', '~> 2.1.0'
+  gem 'spork-rails'
 end
 
 # Gems used only for assets and not required
